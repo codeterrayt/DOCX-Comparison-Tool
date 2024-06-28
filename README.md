@@ -17,6 +17,13 @@ The DOCX Comparison Tool is an advanced utility designed to meticulously compare
 
 Ideal for ensuring the accuracy of typed documents against their original versions, this application is perfect for anyone needing to maintain high standards of document fidelity.
 
+## Outputs 
+### GUI Output 
+<img src="https://github.com/codeterrayt/DOCX-Comparison-Tool/assets/76623307/b80ffd41-ab59-421b-b0df-a363eb07a3bc" width=400 />
+
+### PDF REPORT OUTPUT 
+<img src="https://github.com/codeterrayt/DOCX-Comparison-Tool/assets/76623307/6782962e-9eaf-439e-9dea-d6585db29376" width=400 />
+
 ## Installation Guide
 
 ### Prerequisites
